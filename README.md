@@ -25,9 +25,25 @@ My first website project — NEXORA DIGITAL.
 </nav>
 </h1>
 
-    <h2><section id="home">
-    <h1>Imagine More. Build Beyond.</h1>
-    <p>Welcome to the Future of Technology.</p>
+    <section class="hero" id="home">
+
+    <p class="brand-line">
+        Innovation • Technology • Creativity • AI
+    </p>
+
+    <h1>NEXORA DIGITAL</h1>
+
+    <h2>Imagine More. Build Beyond.</h2>
+
+    <p>
+        Welcome to the Future of Technology.
+        We transform creative ideas into beautiful websites,
+        intelligent AI solutions and powerful digital experiences.
+    </p>
+
+    <a href="#services" class="hero-button">
+        Explore Our Services
+    </a>
 </section></p>
 
     <button onclick="showMessage()">
