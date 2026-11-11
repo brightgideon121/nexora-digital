@@ -8,7 +8,47 @@ My first website project — NEXORA DIGITAL.
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Nexora Digital</title>
     <link rel="stylesheet" href="style.css">
-</head>
+</head> /* NEXORA DIGITAL - Professional Hero */
+
+.hero {
+    min-height: 80vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    padding: 60px 20px;
+}
+
+.brand-line {
+    font-size: 14px;
+    letter-spacing: 2px;
+    margin-bottom: 20px;
+}
+
+.hero h1 {
+    font-size: 56px;
+    margin: 10px 0;
+}
+
+.hero h2 {
+    font-size: 28px;
+    margin: 10px 0 20px;
+}
+
+.hero p {
+    max-width: 700px;
+    line-height: 1.7;
+}
+
+.hero-button {
+    display: inline-block;
+    margin-top: 25px;
+    padding: 14px 28px;
+    text-decoration: none;
+    border-radius: 8px;
+    font-weight: bold;
+}
 
 <body><script src="script.js"></script>
 
